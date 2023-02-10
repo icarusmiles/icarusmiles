@@ -1,16 +1,15 @@
-### Hi there 👋
+&nbsp;
+<h2 align="center">Hello 👋, I'm Miles Collier</h2>
+<hr align="center" size="6" width="100%"  color="green"></hr>
 
-<!--
-**icarusmiles/icarusmiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">AWS Cloureach Talent Academy DACH 2022 - Associate Cloud Systems Developer</h3>
+<hr align="center" size="6" width="100%"  color="green"></hr>
 
-Here are some ideas to get you started:
+Placeholder
+<hr align="center" size="6" width="100%"  color="green"></hr>
+<h3 align="center">Certifications</h3>
+Placeholder
+<hr align="center" size="6" width="100%"  color="green"></hr>
+      <h3 align="center">Technical Skills</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr align="center" size="6" width="100%"  color="green"></hr>

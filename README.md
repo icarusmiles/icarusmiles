@@ -15,6 +15,10 @@ When I'm not busy building cloud infrastructure, you can find me tinkering with 
 <br>
 Thanks for stopping by! 🙏
 <hr align="center" size="6" width="100%"  color="green"></hr>
+<h3 align="center">Certifications</h3>
+Placeholder
+<hr align="center" size="6" width="100%"  color="green"></hr>
+      <h3 align="center">Technical Skills</h3>
 * Cloud Computing (AWS, Azure, Google Cloud)
 * Microservices Architecture
 * Containerization (Docker, Kubernetes)
@@ -23,10 +27,4 @@ Thanks for stopping by! 🙏
 * Infrastructure as Code (Terraform, CloudFormation)
 * Continuous Integration and Deployment (CI/CD) Pipelines
 * Monitoring and Logging Tools (CloudWatch, Prometheus, ELK Stack)
-<hr align="center" size="6" width="100%"  color="green"></hr>
-<h3 align="center">Certifications</h3>
-Placeholder
-<hr align="center" size="6" width="100%"  color="green"></hr>
-      <h3 align="center">Technical Skills</h3>
-
 <hr align="center" size="6" width="100%"  color="green"></hr>

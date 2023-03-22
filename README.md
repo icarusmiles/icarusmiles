@@ -19,12 +19,14 @@ Thanks for stopping by! 🙏
 Placeholder
 <hr align="center" size="6" width="100%"  color="green"></hr>
       <h3 align="center">Technical Skills</h3>
-* Cloud Computing (AWS, Azure, Google Cloud)
-* Microservices Architecture
-* Containerization (Docker, Kubernetes)
-* Serverless Programming (AWS Lambda, Azure Functions)
-* Web Application Development (JavaScript, Node.js, Python)
-* Infrastructure as Code (Terraform, CloudFormation)
-* Continuous Integration and Deployment (CI/CD) Pipelines
-* Monitoring and Logging Tools (CloudWatch, Prometheus, ELK Stack)
+<ul>
+  <li>Cloud Computing (AWS, Azure, Google Cloud)</li>
+  <li>Microservices Architecture</li>
+  <li>Containerization (Docker, Kubernetes)</li>
+  <li>Serverless Programming (AWS Lambda, Azure Functions)</li>
+  <li>Web Application Development (JavaScript, Node.js, Python)</li>
+  <li>Infrastructure as Code (Terraform, CloudFormation)</li>
+  <li>Continuous Integration and Deployment (CI/CD) Pipelines</li>
+  <li>Monitoring and Logging Tools (CloudWatch, Prometheus, ELK Stack)</li>
+</ul>
 <hr align="center" size="6" width="100%"  color="green"></hr>

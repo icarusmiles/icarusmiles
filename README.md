@@ -1,11 +1,9 @@
 &nbsp;
-<h2 align="center">Hello 👋, I'm Miles Collier</h2>
+<h2 align="center">Hello 👋, <br>I'm Miles Collier</h2>
 <hr align="center" size="6" width="100%"  color="green"></hr>
 
 <h3 align="center">Cloud Systems Engineer</h3>
-👋 Hi there! 
-
-I'm Miles Collier, a cloud engineer with a passion for SRE and DevOps. 💻 My programming expertise lies in serverless programming and web app development using JavaScript, Node.js, and Python.
+A cloud engineer with a passion for SRE and DevOps. 💻 My programming expertise lies in serverless programming and web app development using JavaScript, Node.js, and Python.
 <br>
 🚀 With 9 years of experience in the field, I have developed a strong foundation in cloud computing, microservices architecture, and containerization. My goal is to help businesses leverage the power of the cloud to enhance their operations and improve their bottom line. 💪
 <br>
